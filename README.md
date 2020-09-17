@@ -1,1 +1,2 @@
-# node-api-typescript-create
+# marvel-api
+Projeto API com fins acadêmicos
