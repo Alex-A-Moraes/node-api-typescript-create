@@ -7,7 +7,7 @@
 npm install
 ```
 
-### Desenvolvimento com nodemon
+### Desenvolvimento com ts-node-dev
 
 ```bash
 npm run dev
