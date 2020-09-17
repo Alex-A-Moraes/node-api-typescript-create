@@ -1,5 +1,5 @@
 import App from './app';
-const port = process.env.PORT || 3333;
+const port = process.env.PORT || 3001;
 
 console.log('### =======================================');
 console.log(`Running`);
